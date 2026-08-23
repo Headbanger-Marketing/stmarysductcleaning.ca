@@ -1,2 +1,25 @@
 # St. Marys Duct Cleaning
-HVAC services in Ontario.
+
+> St. Marys Duct Cleaning is a local HVAC company serving St. Marys, Perth, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 284-0161  |  Email: contact@stmarysductcleaning.ca  |  Website: https://stmarysductcleaning.ca
+
+## Key pages
+
+- [Home](https://stmarysductcleaning.ca/): St. Marys Duct Cleaning homepage with service overview and FAQ
+- [About](https://stmarysductcleaning.ca/about/): About the company and service area
+- [Contact](https://stmarysductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://stmarysductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in St. Marys, Ontario
+- [Dryer Vent Cleaning](https://stmarysductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in St. Marys, Ontario
+- [Furnace & AC Cleaning](https://stmarysductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in St. Marys, Ontario
+- [HRV & Ventilation Cleaning](https://stmarysductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in St. Marys, Ontario
+- [Duct Sanitizing & Deodorizing](https://stmarysductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in St. Marys, Ontario
+- [Duct Sealing & Repair](https://stmarysductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in St. Marys, Ontario
+- [Commercial Duct Cleaning](https://stmarysductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in St. Marys, Ontario
+
+## FAQ
+
+Common questions about HVAC service in St. Marys are answered on the homepage.
